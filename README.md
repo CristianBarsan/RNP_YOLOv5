@@ -1,1 +1,1 @@
-# RNP_YOLOv5
+# Proiect RNP Detectia participantilor la trafic
